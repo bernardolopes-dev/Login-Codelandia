@@ -1,0 +1,10 @@
+@media (max-width:750px){
+    .login-img{
+        display: none;
+        width: 0vw;
+    }
+
+    .login{
+        width: 100vw;
+    }
+}
